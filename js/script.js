@@ -1,5 +1,5 @@
 var saluto=new Vue ({
-  el: #root,
+  el: "#root",
   data: {
     messaggio: 'Buongiorno mondo',
     salutoVue: 'Hello world!!'
