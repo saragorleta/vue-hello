@@ -5,3 +5,10 @@ var saluto=new Vue ({
     salutoVue: 'Hello world!!'
   }
 });
+
+var salutoColorato=new Vue ({
+  el: "#root2",
+  data: {
+    color:'red'
+  }
+});
